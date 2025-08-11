@@ -35,7 +35,7 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Qwik](https://www.figma.com/community/resource/0e85e84b-be00-4774-b0b1-f8b1511e4e00/thumbnail)
+![Qwik](https://img.shields.io/badge/Qwik-8A2BE2)
 
 ## 🖧 Frontend Complements / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 

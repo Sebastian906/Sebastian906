@@ -8,6 +8,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elsebas1912@gmail.com) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30790263) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastián-salazar-güiza-756b40210) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@elsebas1912) 
 
 # 💻 Tech Stack:
 
